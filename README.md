@@ -31,7 +31,7 @@ Ready to take your Flutter skills to the next level? Explore our resources, conn
 
 Have questions or want to learn more about our services? Get in touch with us:
 
-- Email: contact@fluttersmashers.com
+- Email: FlutterSmashers@gmail.com
 - Twitter: [![Twitter](https://img.shields.io/twitter/follow/FlutterSmashers?style=social)](https://twitter.com/FlutterSmashers)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Flutter%20Smashers-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/fluttersmashers)
 - 
